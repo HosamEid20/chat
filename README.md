@@ -1,2 +1,2 @@
 # chat
-java
+java chat progtram between server and client
